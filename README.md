@@ -74,7 +74,7 @@ A collaborative project combining web development and machine learning to build 
 
 | Contributor | Role | Profile |
 |---|---|---|
-| Muskan Gupta | Frontend Developer | [GitHub](https://github.com/muskanji1007) |
+| Muskan Gupta | Frontend Developer | [GitHub](https://github.com/muskanji1007-lang) |
 | Sohil Mansoori | Backend Developer | [GitHub](https://github.com/sohilmansooribab) |
 | Anubha Jain | Machine Learning | [GitHub](https://github.com/anubha369) |
 | Sarthak Saxena | Machine Learning | [GitHub](https://github.com/SarthakSaxena12) |
